@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85471986122",
+    "project_id": "hss-app-ad89a",
+    "storage_bucket": "hss-app-ad89a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85471986122:android:609acf23402f8aab234f33",
+        "android_client_info": {
+          "package_name": "com.coddrikaz.hss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85471986122-pcfokfu46u7v286dd4qr5r08btunm002.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTePpvtIVn_JQ3C_zv3-ebP9HhYBMcfQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85471986122-pcfokfu46u7v286dd4qr5r08btunm002.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
